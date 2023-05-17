@@ -1,0 +1,43 @@
+.menu1 .menu-bar1{
+    width: 100%;
+    text-align: right;
+    top: 25px;
+}
+
+.menu-bar1 li{
+    list-style-type: none;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 150%;
+    color: goldenrod;
+    padding: 30px;
+    margin: 0px 20px;
+}
+
+.menu2 .menu-bar2{
+    background-color: goldenrod;
+    position: relative;
+    width: 120%;
+    text-align: left;
+    top: 20px;
+    left: 20px;
+    }
+
+.menu-bar2 li {
+   
+    list-style-type: none;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 150%;
+    color: white;
+    padding: 30px;
+    margin: 5px 5px 5px 5px;
+}
+a{
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+a:hover{
+    background-color: gold;
+}
