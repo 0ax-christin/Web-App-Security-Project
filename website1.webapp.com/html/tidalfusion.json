@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tidal-fusion-344815",
+  "private_key_id": "447bdff3bc44e120dff47e590a06d125cb8321cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsfaOdUSGwU13L\nlkl29UmryU8zXapoVcNblTNDLEYKIfhXHCaTKYy8YUDl4QBcdcUVkktRUc/4/Nnd\nd6vE/43WMBZRYdV8lAo0RdytJssCIYwUPEKqP5wnqjdmzM4zkfixDSW6/+/4Jm2Z\n/rJ0gJZYbeZhiaYgdzHQiklAirUlNj1XGUCAcub0fMkg8zzf7fj0UmD4U+Qfaemc\nzOV4sj2UyG3MZ+jTyBH/4s/yH4/VJDq7n2fc1TauJhcCYVQqHmeL4koEtaSWyAsL\ndUHT140NiXERoKNmVVJSxfCSeFQLd/LRvDW6fr39HMhJH9LtmUcORolxt/UL/Oob\nUV4YTLYPAgMBAAECggEAE9mM2RSWPw+GRTX2c/6WlkgfLvw8mS95a6d3/pHF6PJE\n0mghFkwF7+3J2p/HJgdq1pMpy2ISAAdqXklLFpYJcVhs+7uO+6b2T6f/KlvtqRae\n41CV+WKYP/D02YXVxZXVm9u1TQJD+szCoyHuJmhfz4MCK+pRGFOvLgj5P2NW+kDw\nbxUeanv0clyhLwqkpUnjdAimSC5nwa56awWviumWpOwAml7uSDfi+/y+I2xjHPaG\n9dI9ZrK3Vrr1fbfjQUdELq8nx6gTLLjBlAVqvX+OWvjgb0DUpMxfoMmUKX4cHNsr\n09chwy6HlHMZoc/XgkR4Qv/klTPBkfZfAN5JUZiQQQKBgQDZf+OLYQ/WysqVZkNz\nlxoebBMBDulOztH61xNiwYFXiACjxVvAdHK83xHJ3NZIcvKMGenhFPnOKg0T8k0C\nLitSbnR9wyFjR/EwopOgcbqFB6YabxkJLlFaxj+6DoWrTJKcCQo3tMUFgB7mXsC+\n+ckW2/q9/nh8Bnunr5u+cTI/zwKBgQDLBicOGP+h1vu5JV91A+FmgMD2TnG97QWo\nsei90fCp0OGaTQiA55Qtuqj0SnVqhr87Mu0Re9AXo/1CyWJAPLVUD2SVUv3dxLfC\n97TiImKCJCiAotwxweaudNR6bHMMfFJwqnbAN3dVk32Q04cpG2vDkjAzfD4vWCNP\nLPFdSO91wQKBgB1aqk4sWmPl2LOTKrVWBltmwKXa6lgNh79v+ZjRfvBeVZ/Eyh5O\nWRHulUsGOBFtGhkYgj0zhIdzm3I+uG/75TLp32T9yerJUd77giscTk0X/C4DIoDf\ntHEo4n7s6NN2sS7H9Y4RIqocYY876I2dzqr8I3oy9vXeNiAqjj2Er4B3AoGACTp/\nXfmu7Qlbqd/UBfqmLUWe/9MzAmIaxr9HiBFZ8i4ngx8LSui76JQ6h9g2nCAB40v+\nULQjEmAG7BlBWRApYefNN6htF76QZ9FgrILJnYbNPIOqpKxeswFmgyYY2LFyAeMN\nwNEEoKQyqfmjhC/V5y7m+AAmx3onKLsvQYFGOUECgYBoA0ssNxJESAjWJq0v39lp\nYAKaaSwpPhgAAFZjLxjy5uIwjSfD4RfrcXm/pED22kqhW4BBPWNk5sE2FOUhV0gY\niS6iIrsMnuxoyRS6QU9EB7MpGJiJJgMeTz6om2FV7V+DFQV9Y7gzeF0If8uP6lrd\nXq2gxdEwZBLmLLEJW2nerQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chris-635@tidal-fusion-344815.iam.gserviceaccount.com",
+  "client_id": "117192061218433409569",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chris-635%40tidal-fusion-344815.iam.gserviceaccount.com"
+}
